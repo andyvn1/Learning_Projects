@@ -1,0 +1,1 @@
+Welcome to my Python Projects repository for the "100 Days of Code" challenge! This repository documents my journey through the course, where I’m committed to improving my Python skills by completing multiple challenges and projects that reinforce key concepts and introduce new techniques.
